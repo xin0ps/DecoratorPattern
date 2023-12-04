@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\DecoratorDiagram\DecoratorDiagram\obj\Debug\net6.0\DecoratorDiagram.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DecoratorDiagram\DecoratorDiagram\obj\Debug\net6.0\DecoratorDiagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\DecoratorDiagram\DecoratorDiagram\obj\Debug\net6.0\DecoratorDiagram.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DecoratorDiagram\DecoratorDiagram\obj\Debug\net6.0\DecoratorDiagram.AssemblyInfo.cs
+C:\Users\PC\source\repos\DecoratorDiagram\DecoratorDiagram\obj\Debug\net6.0\DecoratorDiagram.csproj.CoreCompileInputs.cache
